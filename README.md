@@ -1,6 +1,6 @@
 ### 👋 Olá! tudo bem com você? 
 
-Me chamo **Jade Souza**, tenho **22 anos**, sou **analista de dados** formada em **ciência da computação** pelo Centro Universitário Estácio do Ceará
+🙂 Me chamo **Jade Souza**, tenho **22 anos**, sou **analista de dados** formada em **Ciência da Computação** pelo Centro Universitário Estácio do Ceará 👩‍🎓
 
 Te convido a conhecer um pouco mais sobre mim
 

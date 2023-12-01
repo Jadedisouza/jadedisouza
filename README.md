@@ -20,7 +20,7 @@ Te convido a conhecer um pouco mais sobre mim
 ## Skill
 
 <div align="center"> 
-     <img align="center" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Sem%20t%C3%ADtulo%20(3).png">
+     <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Sem%20t%C3%ADtulo%20(3).png">
 </div>
 
 

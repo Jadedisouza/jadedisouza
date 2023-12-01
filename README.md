@@ -4,10 +4,20 @@
 
 Te convido a conhecer um pouco mais sobre mim
 
+## Redes sociais
+
  <div>
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
 </div>
+
+<div>
+<img height="400" width="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.57.jpeg">
+<img height="400" width="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.58.jpeg">
+<img height="400" width="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.59.jpeg">
+</div>
+
+## Skill
 
 <div align="center"> 
      <img align="center" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Sem%20t%C3%ADtulo%20(3).png">

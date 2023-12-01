@@ -1,4 +1,6 @@
-### Olá, tudo bem com você? 👋
+### 👋 Olá! tudo bem com você? 
+
+
 
  <div>
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>

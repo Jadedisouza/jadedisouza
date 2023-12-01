@@ -14,6 +14,7 @@ Te convido a conhecer um pouco mais sobre mim
 <div>
 <img height="300" width="240" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.57.jpeg">
 <img height="300" width="240" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.58.jpeg">
+<img height="300" width="240" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.59.jpeg">
 </div>
 
 ## Skill

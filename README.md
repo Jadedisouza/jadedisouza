@@ -1,6 +1,8 @@
 ### 👋 Olá! tudo bem com você? 
 
+Me chamo **Jade Souza**, tenho **22 anos**, sou **analista de dados** formada em **ciência da computação** pelo Centro Universitário Estácio do Ceará
 
+Te convido a conhecer um pouco mais sobre mim
 
  <div>
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>

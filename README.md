@@ -6,11 +6,11 @@ Te convido a conhecer um pouco mais sobre mim
 
 ## Redes sociais
 
- <div>
+ <div align="center">
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
 </div>
-
+<br>
 <div align="center">
 <img height="300" width="240" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.57.jpeg">
 <img height="300" width="240" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.58.jpeg">

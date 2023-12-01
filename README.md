@@ -9,6 +9,8 @@ Te convido a conhecer um pouco mais sobre mim
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
 </div>
 
+<img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Sem%20t%C3%ADtulo%20(3).png">
+
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
 <!--

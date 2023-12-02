@@ -1,15 +1,19 @@
-<div align="center">
-  <h3> Jade Souza </h3>
- 
-<div align="center">
-  <h3><img width="30px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/hey.gif"> Olá! Tudo bem com você? <img width="50px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Gifs%20animados%20Dado.gif"></h3>
 
-  <hr style="border: 1px solid white;">
+<div align="center">
+  <h3>
+    <img width="30px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/hey.gif"> Olá! Tudo bem com você? 
+    <img width="50px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Gifs%20animados%20Dado.gif">
+  </h3>
+<hr style="border: 1px solid white;">
 </div>
 
-😎 Me chamo Jade 
+🙋‍♀️💻 Atualemte trabalhando como Analista de dados <br>
+👩‍🎓 Graduada em Ciência da Computação pela Estácio do Ceará <br>
+✍ Inicinado a pós-graduação em Engenharia de dados pela PUC Minas 🔨🎲 <br>
+💪 Sempre pronta para um desafio <br>
+🌱 Apaixona por designer gráfico e dados 🎨📊 <br>
+❤ Amor pela minha familia 💑 meus Pets 🐟🐕 e a prática de esportes 🏋️‍♀️🏐🏊‍♀️
 
-Te convido a conhecer um pouco mais sobre mim
 
 ## Redes sociais
 

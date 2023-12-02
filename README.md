@@ -1,4 +1,5 @@
-### 👋 Olá! tudo bem com você? 
+<img width = 30px src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/hey.gif"> Olá! tudo bem com você? 
+
 
 🙂 Me chamo **Jade Souza**, tenho **22 anos**, sou **analista de dados** formada em **Ciência da Computação** pelo Centro Universitário Estácio do Ceará 👩‍🎓
 

@@ -7,7 +7,7 @@
 <hr style="border: 1px solid white;">
 </div>
 
-🙋‍♀️💻 Atualemte trabalhando como Analista de dados <br>
+🙋‍♀️💻 Atualmente trabalhando como Analista de dados no Sesc Ceará <br>
 👩‍🎓 Graduada em Ciência da Computação pela Estácio do Ceará <br>
 ✍ Inicinado a pós-graduação em Engenharia de dados pela PUC Minas 🔨🎲 <br>
 💪 Sempre pronta para um desafio <br>

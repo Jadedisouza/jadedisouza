@@ -1,7 +1,13 @@
-<img width = 30px src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/hey.gif"> Olá! tudo bem com você? 
+<div align="center">
+  <h3> Jade Souza </h3>
+ 
+<div align="center">
+  <h3><img width="30px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/hey.gif"> Olá! Tudo bem com você? <img width="50px" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Gifs%20animados%20Dado.gif"></h3>
 
+  <hr style="border: 1px solid white;">
+</div>
 
-🙂 Me chamo **Jade Souza**, tenho **22 anos**, sou **analista de dados** formada em **Ciência da Computação** pelo Centro Universitário Estácio do Ceará 👩‍🎓
+😎 Me chamo Jade 
 
 Te convido a conhecer um pouco mais sobre mim
 

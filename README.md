@@ -40,12 +40,12 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 
 <h3>Calculadora de HIIT</h3>
 
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
-<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
+<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
 </div>
 
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">

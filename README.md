@@ -36,7 +36,16 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 </div>
 
 ## Projetos
-<img src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/App.gif">
+<div align="center">
+
+<h3>Calculadora de HIIT</h3>
+
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
+</div>
+
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
 

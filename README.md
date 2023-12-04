@@ -52,10 +52,11 @@ Meu projeto de conclusão de curso é um aplicativo denominado 'Calculadora de H
   <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
   <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
 </div>
-
-<img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
-<img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
-
+<br>
+<div align="center">
+<img height="400" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
+<img height="400" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
+</div>
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
 <!--

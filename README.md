@@ -19,7 +19,7 @@
 ## Skill
 
 <div align="center"> 
-     <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Sem%20t%C3%ADtulo%20(3).png">
+     <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Skill.png">
 </div>
 
 ## Redes sociais

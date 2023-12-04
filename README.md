@@ -35,10 +35,10 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
 </div>
 
-
-
+## Projetos
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/App.gif">
-
+<img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
+<img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
 
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 

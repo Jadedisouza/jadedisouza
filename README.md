@@ -29,7 +29,7 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 <a href="https://www.instagram.com/p/Cu90bZvL6Ls/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao2.jpeg"></a>
 <a href="https://www.instagram.com/p/Cu4y0JZrkrK/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao3.jpeg"></a>
 </div>
-<br>
+      <br>
 <div align="center">
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
@@ -40,12 +40,12 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 
 <h3>Calculadora de HIIT</h3>
 
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
-<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
+<img height="300" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
 </div>
 
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">

@@ -44,6 +44,8 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 <img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
 <img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
 <img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
+<img height="500" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
 </div>
 
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">

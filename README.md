@@ -23,7 +23,7 @@
 </div>
 
 ## Redes sociais
-Essas são algumas das minhas pu
+Essas são algumas das minhas publicações, clique na imagem para ser redirecionado:
 <div align="center">
 <a href="https://www.linkedin.com/posts/jade-souza-7905ab1b1_techtalks-lgpd-gestaetodedados-activity-7130990123021651969-5AXC?utm_source=share&utm_medium=member_android"> <img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.57.jpeg"></a>
 <a href="https://www.instagram.com/p/Cu90bZvL6Ls/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/WhatsApp%20Image%202023-12-01%20at%2017.21.58.jpeg"></a>

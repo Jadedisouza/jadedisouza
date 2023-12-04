@@ -41,15 +41,16 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 
 Meu projeto de conclusão de curso é um aplicativo denominado 'Calculadora de HIIT'. Foi desenvolvido em DAX, utilizando o framework Flutter. O objetivo do aplicativo é facilitar a prescrição de treinamentos intervalados de alta intensidade (HIIT). O público-alvo abrange tanto os profissionais de educação física quanto os praticantes de atividade física.
 
+<div align="center">
+  
 [Clique aqui para fazer o download do APK e instalar em seu dispositivo](https://github.com/Jadedisouza/Arquivos/tree/main/TCC/APK)
 
-<div>
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
-<img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App1.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App2.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App3.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App4.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App5.jpeg">
+  <img height="250" src="https://github.com/Jadedisouza/Arquivos/blob/main/TCC/APP/App6.jpeg">
 </div>
 
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">

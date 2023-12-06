@@ -31,7 +31,7 @@ Por questões de privacidade, a logo e o nome da academia foram omitidos, e os d
 Clique na imagem para ser redirecionado: 
 
 <br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"</a><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
 
 <h3 align="center">Calculadora de HIIT</h3>
 

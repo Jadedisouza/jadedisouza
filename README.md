@@ -22,20 +22,15 @@
      <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Skill.png">
 </div>
 
-## Redes sociais
-Essas são algumas das minhas publicações, clique na imagem para ser redirecionado:
-<div align="center">
-<a href="https://www.linkedin.com/posts/jade-souza-7905ab1b1_techtalks-lgpd-gestaetodedados-activity-7130990123021651969-5AXC?utm_source=share&utm_medium=member_android"> <img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao1.jpeg"></a>
-<a href="https://www.instagram.com/p/Cu90bZvL6Ls/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao2.jpeg"></a>
-<a href="https://www.instagram.com/p/Cu4y0JZrkrK/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao3.jpeg"></a>
-</div>
-      <br>
-<div align="center">
-      <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
-      <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
-</div>
-
 ## Projetos
+
+<h3 align="center">BI Pesquisa de satisfação</h3>
+
+Este BI foi desenvolvido para atender às demandas específicas de uma academia. A pesquisa de satisfação foi conduzida através do Google Forms, e o Dashboard foi criado no Power BI. <br>
+Por questões de privacidade, a logo e o nome da academia foram omitidos, e os dados disponíveis abaixo são uma amostra representativa.
+
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
 
 <h3 align="center">Calculadora de HIIT</h3>
 
@@ -57,7 +52,47 @@ Meu projeto de conclusão de curso é um aplicativo denominado 'Calculadora de H
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
 
+## Redes sociais
+Essas são algumas das minhas publicações, clique na imagem para ser redirecionado:
+<div align="center">
+<a href="https://www.linkedin.com/posts/jade-souza-7905ab1b1_techtalks-lgpd-gestaetodedados-activity-7130990123021651969-5AXC?utm_source=share&utm_medium=member_android"> <img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao1.jpeg"></a>
+<a href="https://www.instagram.com/p/Cu90bZvL6Ls/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao2.jpeg"></a>
+<a href="https://www.instagram.com/p/Cu4y0JZrkrK/?igshid=MTc4MmM1YmI2Ng=="><img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao3.jpeg"></a>
+</div>
+      <br>
+<div align="center">
+      <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
+      <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
+
+
+
+
+
+
+
+
+
 
 <!--
 **Jadedisouza/jadedisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,6 +28,7 @@
 
 Este BI foi desenvolvido para atender às demandas específicas de uma academia. A pesquisa de satisfação foi conduzida através do Google Forms, e o Dashboard foi criado no Power BI. <br>
 Por questões de privacidade, a logo e o nome da academia foram omitidos, e os dados disponíveis abaixo são uma amostra representativa.
+Clique na imagem para ser redirecionado: 
 
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
@@ -64,25 +65,7 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
       <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
       <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr style="border: 1px solid white;">
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">
 
 

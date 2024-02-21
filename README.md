@@ -13,7 +13,7 @@
 👩‍🎓 Graduada em Ciência da Computação - Estácio do Ceará <br>
 ✍ Especialização em Engenharia de dados - PUC Minas <br>
 💪 Sempre pronta para um desafio <br>
-🌱 Apaixonada por designer gráfico e dados <br>
+🌱 Apaixonada por Designer gráfico e Dados <br>
 <div align="center">❤💑🐟🐕🏋️‍♀️🏐🏊‍♀️🍕🎶</div>
 
 ## Skill

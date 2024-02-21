@@ -11,7 +11,7 @@
 
 🙋‍♀️💻 Atualmente trabalhando como Analista de dados no Sesc Ceará <br>
 👩‍🎓 Graduada em Ciência da Computação - Estácio do Ceará <br>
-<!--✍ Iniciando a pós-graduação em Engenharia de dados - PUC Minas <br>-->
+✍ Especialização em Engenharia de dados - PUC Minas <br>
 💪 Sempre pronta para um desafio <br>
 🌱 Apaixonada por designer gráfico e dados <br>
 <div align="center">❤💑🐟🐕🏋️‍♀️🏐🏊‍♀️🍕🎶</div>

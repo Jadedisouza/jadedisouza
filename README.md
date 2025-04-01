@@ -9,11 +9,10 @@
 
 ### 🤖 Sobre mim
 
-🙋‍♀️💻 Atualmente trabalhando como Analista de dados no Sesc Ceará <br>
+🙋‍♀️💻 Atualmente trabalhando como Analista de dados em Hapvida <br>
 👩‍🎓 Graduada em Ciência da Computação - Estácio do Ceará <br>
-✍ Especialização em Engenharia de dados - PUC Minas <br>
-💪 Sempre pronta para um desafio <br>
-🌱 Apaixonada por Designer gráfico e Dados <br>
+✍ Pós-graduada em Engenharia de dados - PUC Minas <br>
+
 <div align="center">❤💑🐟🐕🏋️‍♀️🏐🏊‍♀️🍕🎶</div>
 
 ## Skill

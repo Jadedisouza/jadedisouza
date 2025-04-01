@@ -61,8 +61,8 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 </div>
       <br>
 <div align="center">
-      📍 LinkedIn | <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank">🔗</a>
-      📷 Instagram | <a href="https://www.instagram.com/jadedi_/" target="_blank">📷</a>
+      📍  | <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank">LinkedIn</a>
+      📷 | <a href="https://www.instagram.com/jadedi_/" target="_blank">Instagram</a>
 </div>
 <hr style="border: 1px solid white;">
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">

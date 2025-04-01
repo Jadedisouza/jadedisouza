@@ -52,7 +52,7 @@ Meu projeto de conclusão de curso é um aplicativo denominado 'Calculadora de H
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Introducao.jpeg">
 <img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Conclusao.jpeg">
 
-## Redes sociais
+## 🚀 Conecte-se Comigo
 Essas são algumas das minhas publicações, clique na imagem para ser redirecionado:
 <div align="center">
 <a href="https://www.linkedin.com/posts/jade-souza-7905ab1b1_techtalks-lgpd-gestaetodedados-activity-7130990123021651969-5AXC?utm_source=share&utm_medium=member_android"> <img height="250" width="200" src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Publicacao1.jpeg"></a>
@@ -61,8 +61,8 @@ Essas são algumas das minhas publicações, clique na imagem para ser redirecio
 </div>
       <br>
 <div align="center">
-      <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"> <img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/linkedin-icon.png" target="_blank"></a>
-      <a href="https://www.instagram.com/jadedi_/"><img align="center" height="50" width="50" src="https://github.com/Jadedisouza/Arquivos/blob/main/Icon/Instagram_logo_2016.svg.webp" target="_blank"></a>
+      📍 LinkedIn | <a href="https://www.linkedin.com/in/jade-souza-7905ab1b1/" target="_blank"><img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1987/1987444.png" alt="Camera Icon"></a>
+      📷 Instagram | <a href="https://www.instagram.com/jadedi_/" target="_blank"><img align="center" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Camera Icon"></a>
 </div>
 <hr style="border: 1px solid white;">
 <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif">

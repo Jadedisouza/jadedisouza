@@ -32,6 +32,12 @@ Clique na imagem para ser redirecionado:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
 
+<h3 align="center">Teck Talks - Stream BI</h3>
+
+O Tech Talks foi um projeto interno que eu liderei com o objetivo de incentivar o compartilhamento de conhecimento entre os colaboradores. Além de promover aprendizado, também foi pensado como um espaço seguro para que todos pudessem desenvolver habilidades de comunicação e perder o medo de falar em público. Tivemos também a participação de convidados de outras empresas, o que deixou as trocas ainda mais ricas.
+
+Este BI organiza e apresenta essas informações de forma interativa, inspirado em plataformas de streaming. Os usuários podem explorar os conteúdos disponíveis, acessar os links das gravações e conferir o feedback de cada encontro.
+
 <br>
 <a href="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg">
   <img src="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg?raw=true" alt="BI Tech Talks" width="700"/>

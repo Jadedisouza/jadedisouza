@@ -33,7 +33,10 @@ Clique na imagem para ser redirecionado:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
 
 <br>
-<a href="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg"><img
+<a href="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg">
+  <img src="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg?raw=true" alt="BI Tech Talks" width="700"/>
+</a>
+
 
 <h3 align="center">Calculadora de HIIT</h3>
 

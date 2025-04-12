@@ -11,7 +11,7 @@
 
 🙋‍♀️💻 Atualmente trabalhando como Analista de dados em Hapvida <br>
 👩‍🎓 Graduada em Ciência da Computação - Estácio do Ceará <br>
-👷‍♀️ Pós-graduada em Engenharia de Dados - PUC Minas <br>
+👷‍♀️ Pós-graduação em Engenharia de Dados - PUC Minas <br>
 
 <div align="center">❤💑🐟🐕🏋️‍♀️🏐🏊‍♀️🍕🎶</div>
 

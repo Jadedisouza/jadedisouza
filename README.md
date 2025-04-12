@@ -23,15 +23,6 @@
 
 ## Projetos
 
-<h3 align="center">BI Pesquisa de satisfação</h3>
-
-Este BI foi desenvolvido para atender às demandas específicas de uma academia. A pesquisa de satisfação foi conduzida através do Google Forms, e o Dashboard foi criado no Power BI. <br>
-Por questões de privacidade, a logo e o nome da academia foram omitidos, e os dados disponíveis abaixo são uma amostra representativa.
-Clique na imagem para ser redirecionado: 
-
-<br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
-
 <h3 align="center">Teck Talks - Stream BI</h3>
 
 O Tech Talks foi um projeto interno que eu liderei com o objetivo de incentivar o compartilhamento de conhecimento entre os colaboradores. Além de promover aprendizado, também foi pensado como um espaço seguro para que todos pudessem desenvolver habilidades de comunicação e perder o medo de falar em público. Tivemos também a participação de convidados de outras empresas, o que deixou as trocas ainda mais ricas.

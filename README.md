@@ -32,6 +32,9 @@ Clique na imagem para ser redirecionado:
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmQ3ODdjZTAtYmVmNC00NzNmLWE4YTUtNDE2MzQ3ZWZhNDk1IiwidCI6IjUzZjQ4YzRhLWFhMTUtNDJmNy1hN2EyLTZiNTliOWViNDE1NSJ9" target="_blank"><img src="https://github.com/Jadedisouza/Arquivos/blob/main/Img/Bi_amostragem.jpeg">
 
+<br>
+<a href="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg"><img
+
 <h3 align="center">Calculadora de HIIT</h3>
 
 Meu projeto de conclusão de curso é um aplicativo denominado 'Calculadora de HIIT'. Foi desenvolvido em DAX, utilizando o framework Flutter. O objetivo do aplicativo é facilitar a prescrição de treinamentos intervalados de alta intensidade (HIIT). O público-alvo abrange tanto os profissionais de educação física quanto os praticantes de atividade física.

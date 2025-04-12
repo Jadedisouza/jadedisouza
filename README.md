@@ -39,7 +39,7 @@ O Tech Talks foi um projeto interno que eu liderei com o objetivo de incentivar 
 Este BI organiza e apresenta essas informações de forma interativa, inspirado em plataformas de streaming. Os usuários podem explorar os conteúdos disponíveis, acessar os links das gravações e conferir o feedback de cada encontro.
 
 <p align="center">
-  <a href="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg">
+  <a href="[https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg](https://app.powerbi.com/view?r=eyJrIjoiNGY4ZmVmNTctOWI0My00OTBjLWJlNDYtM2RhZTMwMDhlZjQ1IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)">
     <img src="https://github.com/Jadedisouza/Arquivos/blob/78eda78dbf10a75aadfef5d38ea1bcd109b52e62/Img/BI%20-%20Tech%20Talks.jpeg?raw=true" alt="BI Tech Talks" width="700"/>
   </a>
 </p>

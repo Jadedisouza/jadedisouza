@@ -10,7 +10,7 @@
 ### 🤖 Sobre mim
 
 🙋‍♀️💻 Atualmente trabalhando como Engenheiro de dados Pleno em Fóton Informática <br>
-👩‍🎓 Graduada em Ciência da Computação - Estácio do Ceará <br>
+👩‍🎓 Graduação em Ciência da Computação - Estácio do Ceará <br>
 👷‍♀️ Pós-graduação em Engenharia de Dados - PUC Minas <br>
 
 <div align="center">❤💑🐟🐕🏋️‍♀️🏐🏊‍♀️🍕🎶</div>
